@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React, Angular**
 
+- 🔭 You can investigate my pet projects here **https://github.com/nikineese?tab=repositories**
+
 - 📫 How to reach me **temanharosh@gmail.com or temnykyt@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1URfBsagCxpkxVMwNB4e8a_KjbZCeCQ1KQXL2bICAKWw/edit?usp=sharing](https://docs.google.com/document/d/1URfBsagCxpkxVMwNB4e8a_KjbZCeCQ1KQXL2bICAKWw/edit?usp=sharing)
