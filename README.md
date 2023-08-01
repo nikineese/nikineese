@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">Experienced frontend developer</h3>
 
-- 💼 I'm currently looking for job opportunities on **React, Angular**
-
 - 🌱 I’m currently learning **React, Angular**
 
 - 🔭 You can investigate my pet projects here **https://github.com/nikineese?tab=repositories**
