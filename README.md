@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **temanharosh@gmail.com or temnykyt@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1URfBsagCxpkxVMwNB4e8a_KjbZCeCQ1KQXL2bICAKWw/edit?usp=sharing](https://docs.google.com/document/d/1URfBsagCxpkxVMwNB4e8a_KjbZCeCQ1KQXL2bICAKWw/edit?usp=sharing)
-
 - ⚡ Fun fact **I like to eat kebab 😋**
 
 <h3 align="left">Connect with me:</h3>
